@@ -1,0 +1,15 @@
+# VS Code
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Django files
+migrations/
+static/
+
+# Pyogram files
+*.session
+
+# Environment file
+.env
